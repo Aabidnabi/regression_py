@@ -1,4 +1,4 @@
-# regrsssion_py
+# Regression
 Data Set Characteristics:
 
 :Number of Instances: 506 
